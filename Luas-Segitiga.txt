@@ -1,0 +1,21 @@
+Algoritma
+memulai dengan mendeklarasikan variabel
+    alas: 25
+    tinggi: 3
+    luas:
+hitung  dengan menggunakan luas = (alas * tinggi) / 2
+print hasil tersebut lalu tampilkan
+
+Pseudocode
+
+Algoritma LuasSegitiga
+
+DEKLARASI
+    alas: int
+    tinggi: int
+    luas: real
+
+alas=25
+tinggi=30
+luas=
+print hasil luas segitiga = (alas * tinggi)/2
